@@ -1,0 +1,107 @@
+{
+    "name": "Волинська губернія",
+    "name:ru": "Волинская губерния",
+    "name:en": "Volhynian Governorate",
+    "wikidata": "Q1333965",
+    "wikipedia": "uk:Волинська_губернія",
+    "openhistoricalmap": "r2696487",
+    "type": "governorate",
+    "povity":[
+         {
+            "name":"Володимир-Волинський повіт",
+            "name:ru":"Владимир-Волынский уезд",
+            "name:en":"Volodymyr-Volynsky Uyezd",
+            "wikidata":"Q4112989",
+            "wikipedia":"uk:Володимирський_повіт_(1795—1920)",
+            "type":"povit"
+        },
+        {
+            "name":"Дубенський повіт",
+            "name:ru":"Остромадский уезд",
+            "name:en":"Dubno uezd",
+            "wikidata":"Q4026886",
+            "wikipedia":"uk:Дубенський_повіт",
+            "type":"povit"
+        },
+        {
+            "name":"Житомирський повіт",
+            "name:ru":"Житомирский уезд",
+            "name:en":"Zhytomyr uezd",
+            "wikidata":"Q12104648",
+            "wikipedia":"uk:Житомирський_повіт_(Волинська_губернія)",
+            "type":"povit"
+        },
+         {
+            "name":"Ізяславський повіт",
+            "name:ru":"Заславский уезд",
+            "name:en":"Zaslavsky uezd",
+            "wikidata":"Q11825807",
+            "wikipedia":"uk:Ізяславський_повіт",
+            "type":"povit"
+        },
+        {
+            "name":"Ковельський повіт",
+            "name:ru":"Ковельский уезд",
+            "name:en":"Kovel uezd",
+            "wikidata":"Q867013",
+            "wikipedia":"uk:Ковельський_повіт_(Російська_імперія)",
+            "type":"povit"
+        },
+        {
+            "name":"Кременецький повіт",
+            "name:ru":"Кременецкий уезд",
+            "name:en":"Kremenets uezd",
+            "wikidata":"Q25446997",
+            "wikipedia":"uk:Кременецький_повіт_(Російська_імперія)",
+            "type":"povit"
+        },
+        {
+            "name":"Луцький повіт",
+            "name:ru":"Луцкий уезд",
+            "name:en":"Lutsk uezd",
+            "wikidata":"Q11825818",
+            "wikipedia":"uk:Луцький_повіт",
+            "type":"povit"
+        },
+        {
+            "name":"Новоград-Волинський повіт",
+            "name:ru":"Новоград-Волынский уезд",
+            "name:en":"Novograd-Volynsky uezd",
+            "wikidata":"Q11825813",
+            "wikipedia":"uk:Новоград-Волинський_повіт",
+            "type":"povit"
+        },
+         {
+            "name":"Овруцький повіт",
+            "name:ru":"Овручский уезд",
+            "name:en":"Ovruchsky uezd",
+            "wikidata":"Q11825692",
+            "wikipedia":"uk:Овруцький_повіт",
+            "type":"povit"
+        },
+         {
+            "name":"Острозький повіт",
+            "name:ru":"Острожский уезд",
+            "name:en":"Ostrozhsky uezd",
+            "wikidata":"Q11825691",
+            "wikipedia":"uk:Острозький_повіт",
+            "type":"povit"
+        },
+        {
+            "name":"Ровенський повіт",
+            "name:ru":"Ровенский уезд",
+            "name:en":"Rovensky uezd",
+            "wikidata":"Q12104653",
+            "wikipedia":"uk:Ровенський_повіт",
+            "type":"povit"
+        },
+         {
+            "name":"Старокостянтинівський повіт",
+            "name:ru":"Староконстантиновский уезд",
+            "name:en":"Starokonstantinovsky uezd",
+            "wikidata":"Q4440430",
+            "wikipedia":"uk:Старокостянтинівський_повіт",
+            "type":"povit"
+        }
+    ]
+}
