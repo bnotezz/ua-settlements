@@ -18,6 +18,228 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    24.322222,
+                    50.848056
+                ]
+            },
+            "properties": {
+                "title": "Владимир-Волынск г.",
+                "gubernia": "Волынская губерния",
+                "uezd": "Владимирволынский уезд",
+                "names": "Владимир-Волынский, Владимир-Волынск",
+                "type": "город",
+                "status": "жилой",
+                "population": "12780"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.742854,
+                    50.403157
+                ]
+            },
+            "properties": {
+                "title": "Дубно г.",
+                "gubernia": "Волынская губерния",
+                "uezd": "Дубенский уезд",
+                "names": "Дубно",
+                "type": "город",
+                "status": "жилой",
+                "population": "6708"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.670968,
+                    50.268597
+                ]
+            },
+            "properties": {
+                "title": "Житомир г.",
+                "gubernia": "Волынская губерния",
+                "uezd": "Житомирский уезд",
+                "names": "Житомир",
+                "type": "город",
+                "status": "жилой",
+                "population": "90192"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.823633,
+                    50.113837
+                ]
+            },
+            "properties": {
+                "title": "Заславль г.",
+                "gubernia": "Волынская губерния",
+                "uezd": "Заславский уезд",
+                "names": "Заслав, Заславль, Изяслав",
+                "type": "город",
+                "status": "жилой",
+                "population": "22338"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.687778,
+                    51.219167
+                ]
+            },
+            "properties": {
+                "title": "Ковель г.",
+                "gubernia": "Волынская губерния",
+                "uezd": "Ковельский уезд",
+                "names": "Ковель",
+                "type": "город",
+                "status": "жилой",
+                "population": "22180"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.73184,
+                    50.096396
+                ]
+            },
+            "properties": {
+                "title": "Кременец г.",
+                "gubernia": "Волынская губерния",
+                "uezd": "Кременецкий уезд",
+                "names": "Кременец",
+                "type": "город",
+                "status": "жилой"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.328056,
+                    50.753611
+                ]
+            },
+            "properties": {
+                "title": "Луцк г.",
+                "gubernia": "Волынская губерния",
+                "uezd": "Луцкий уезд",
+                "names": "Луцк",
+                "type": "город",
+                "status": "жилой"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.613001,
+                    50.586497
+                ]
+            },
+            "properties": {
+                "title": "Новоградволынск г.",
+                "gubernia": "Волынская губерния",
+                "uezd": "Новоградволынский уезд",
+                "names": "Новоград-Волынский, Новоградволынск",
+                "type": "город",
+                "status": "жилой"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.804569,
+                    51.324053
+                ]
+            },
+            "properties": {
+                "title": "Овруч г.",
+                "gubernia": "Волынская губерния",
+                "uezd": "Овручский уезд",
+                "names": "Овруч",
+                "population": "9300",
+                "type": "город",
+                "status": "жилой"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.521111,
+                    50.328056
+                ]
+            },
+            "properties": {
+                "title": "Острог г.",
+                "gubernia": "Волынская губерния",
+                "uezd": "Острожский уезд",
+                "names": "Острог",
+                "type": "город",
+                "status": "жилой"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.245181,
+                    50.619651
+                ]
+            },
+            "properties": {
+                "title": "Ровно г.",
+                "gubernia": "Волынская губерния",
+                "uezd": "Ровенский уезд",
+                "names": "Ровно",
+                "type": "город",
+                "status": "жилой"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.186805,
+                    49.753047
+                ]
+            },
+            "properties": {
+                "title": "Староконстантинов г.",
+                "gubernia": "Волынская губерния",
+                "uezd": "Староконстантиновский уезд",
+                "names": "Староконстантинов",
+                "type": "город",
+                "status": "жилой"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     23.9061616,
                     51.0850513
                 ]
