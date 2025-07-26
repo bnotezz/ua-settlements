@@ -85,7 +85,32 @@
             "name:en":"Ostrozhsky uezd",
             "wikidata":"Q11825691",
             "wikipedia":"uk:Острозький_повіт",
-            "type":"povit"
+            "type":"povit",
+            "volosti":[
+                {
+                    "name":"Сіянецька волость",
+                    "name:ru":"Сиянецкая волость",
+                    "name:en":"Ostrozhsky volost",
+                    "wikipedia":"uk:Сіянецька_волость",
+                    "wikidata":"Q9272403",
+                    "population:1885":5796,
+                    "area:1885":13691,
+                    "type":"volost",
+                    "settlements":[
+                        {
+                            "name":"Сіянці",
+                            "name:ru":"Сеянцы",
+                            "name:en":"Siiantsi",
+                            "name:pl":"Sijańce",
+                            "wikidata":"Q4418142",
+                            "wikipedia":"uk:Сіянці",
+                            "population": 109,
+                            "houses": 723,
+                            "type":"с."
+                        }
+                    ]
+                }
+            ]
         },
         {
             "name":"Ровенський повіт",
